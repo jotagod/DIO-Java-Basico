@@ -6,8 +6,7 @@ import Iphone.apps.TelefoneCelular;
 
 public class Iphone implements NavegadorDeInternet, TelefoneCelular, ReprodutorMusical {
 
-    public static void main(String[] args) {
-        
+    public static void main(String[] args) {        
     }
 
     public void ReproduzirMusica() {
